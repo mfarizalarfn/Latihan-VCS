@@ -47,7 +47,7 @@ Langkah pertama kita harus menyalin *link URL* git kita di Github, dengan cara t
 
 * *Pop Up* Command Prompt (CMD) akan terbuka. Pada proses ini kita akan melakukan download file repository yang tadi dibuat, dengan mengetikkan *syntax* berikut :
 > git clone [URL]
-Pada contohnya, saya akan memasukkan *git clone https://github.com/febroherdyanto/LatihanVCS.git*
+Pada contohnya, saya akan memasukkan *git clone https://github.com/mfarizalarfn/Latihan-VCS.git*
 ![Picture Git Clone](pict/clonevcs.PNG)
 
 * Setelah proses cloning selesai, pada saat ini kita masih pada folder awal (master), kita harus masuk kedalam folder yang telah dicloning tadi yaitu *LatihanVCS* dengan mengetikkan *syntax* berikut :
