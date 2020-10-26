@@ -32,7 +32,8 @@ Setelah diisi, silahkan lakukan pengecekan user nama dan email, dengan mengetikk
 
 ![Picture - Cek User](pict/cek-user-email.PNG)
 
-* Silahkan Buat akun di [GitHub](https://github.com) , seperti contoh dibawah ini. Dan lakukan *verifikasi* akun melalui email yang sudah terdaftar. 
+* Silahkan Buat akun di [GitHub](https://github.com) , seperti contoh dibawah ini. Dan lakukan *verifikasi* akun melalui email yang sudah terdaftar.
+ 
 ![Picture Github SignUp](pict/signup-git.PNG)
 
 * Jika akun GitHub sudah selesai dibuat dan diverifikasi, Proses selanjutnya silahkan buat *Repository* seperti gamabr dibawah ini.
