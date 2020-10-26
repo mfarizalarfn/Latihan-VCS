@@ -20,6 +20,18 @@ Kelas      : TI.20.B.1
 
     ![Git Pict Version Check](pict/gitv-ersion.PNG)
 
+    * Jika muncul tampilan git version, berarti Git sudah berhasil di install dan bisa digunakan. Langkah pertama kita harus mengkonfigurasi user nama dan email di Git, dengan mengetikkan *syntax* berikut :
+> git config --global user.name "Masukkan Nama Anda disini"
+> git config --global user.email "Masukkan Email Anda disini"
+
+![Picture - Add User](pict/git-user-email.PNG)
+
+Setelah diisi, silahkan lakukan pengecekan user nama dan email, dengan mengetikkan perintah berikut :
+> git config --global user.name
+> git config --global user.email
+
+![Picture - Cek User](pict/cek-user-email.PNG)
+
     * Silahkan Buat akun di [GitHub](https://github.com) , seperti contoh dibawah ini. Dan lakukan *verifikasi* akun melalui email yang sudah terdaftar. 
 ![Picture Github SignUp](pict/signup-git.PNG)
 
