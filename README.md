@@ -84,3 +84,5 @@ Berikut adalah langkah-langkah penggunaan GIT
 Sekian informasi yang dapat saya sampaikan
 
 ##TERIMA KASIH.
+
+Copyrigth:MFarizalArifin
